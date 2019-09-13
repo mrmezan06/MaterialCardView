@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialCard</string>
+    <string name="header">Card Header</string>
+    <string name="sub">Subtitle</string>
+    <string name="member1">Head</string>
+    <string name="member2">Sub</string>
+</resources>
